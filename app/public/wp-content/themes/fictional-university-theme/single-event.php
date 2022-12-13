@@ -18,10 +18,10 @@ while(have_posts()) {
         <p>
           <a class="metabox__blog-home-link" href="<?php echo site_url('/blog');?>">
             <i class="fa fa-home" aria-hidden="true"></i> 
-            Blog Home</a> <span class="metabox__main"><?php the_title(); ?></span>
+            Event Home</a> <span class="metabox__main"><?php the_title();?></span>
         </p>
       </div>        <div class="generic-content">
-            <?php the_content();?>
+            <?php the_content(); ?>
         </div>
     </div>
     <?php
