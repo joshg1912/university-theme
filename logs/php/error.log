@@ -1,0 +1,44 @@
+[11-Dec-2022 06:22:04 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in C:\Users\wormm\Local Sites\test\app\public\wp-content\themes\fictional-university-theme\page.php on line 38
+[11-Dec-2022 06:24:09 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in C:\Users\wormm\Local Sites\test\app\public\wp-content\themes\fictional-university-theme\page.php on line 39
+[11-Dec-2022 06:27:02 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in C:\Users\wormm\Local Sites\test\app\public\wp-content\themes\fictional-university-theme\page.php on line 44
+[11-Dec-2022 06:27:09 UTC] PHP Warning:  Undefined variable $theParentID in C:\Users\wormm\Local Sites\test\app\public\wp-content\themes\fictional-university-theme\page.php on line 38
+[11-Dec-2022 06:27:09 UTC] PHP Stack trace:
+[11-Dec-2022 06:27:09 UTC] PHP   1. {main}() C:\Users\wormm\Local Sites\test\app\public\index.php:0
+[11-Dec-2022 06:27:09 UTC] PHP   2. require() C:\Users\wormm\Local Sites\test\app\public\index.php:17
+[11-Dec-2022 06:27:09 UTC] PHP   3. require_once() C:\Users\wormm\Local Sites\test\app\public\wp-blog-header.php:19
+[11-Dec-2022 06:27:09 UTC] PHP   4. include() C:\Users\wormm\Local Sites\test\app\public\wp-includes\template-loader.php:106
+[11-Dec-2022 06:27:19 UTC] PHP Warning:  Undefined variable $theParentID in C:\Users\wormm\Local Sites\test\app\public\wp-content\themes\fictional-university-theme\page.php on line 38
+[11-Dec-2022 06:27:19 UTC] PHP Stack trace:
+[11-Dec-2022 06:27:19 UTC] PHP   1. {main}() C:\Users\wormm\Local Sites\test\app\public\index.php:0
+[11-Dec-2022 06:27:19 UTC] PHP   2. require() C:\Users\wormm\Local Sites\test\app\public\index.php:17
+[11-Dec-2022 06:27:19 UTC] PHP   3. require_once() C:\Users\wormm\Local Sites\test\app\public\wp-blog-header.php:19
+[11-Dec-2022 06:27:19 UTC] PHP   4. include() C:\Users\wormm\Local Sites\test\app\public\wp-includes\template-loader.php:106
+[11-Dec-2022 23:56:20 UTC] PHP Parse error:  syntax error, unexpected token "=", expecting ")" in C:\Users\wormm\Local Sites\test\app\public\wp-content\themes\fictional-university-theme\page.php on line 34
+[11-Dec-2022 23:57:32 UTC] PHP Parse error:  syntax error, unexpected token "=", expecting ")" in C:\Users\wormm\Local Sites\test\app\public\wp-content\themes\fictional-university-theme\page.php on line 34
+[11-Dec-2022 23:57:51 UTC] PHP Parse error:  syntax error, unexpected token "=", expecting ")" in C:\Users\wormm\Local Sites\test\app\public\wp-content\themes\fictional-university-theme\page.php on line 34
+[12-Dec-2022 02:14:41 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\wormm\Local Sites\test\app\public\wp-content\themes\fictional-university-theme\index.php on line 23
+[12-Dec-2022 02:30:41 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\wormm\Local Sites\test\app\public\wp-content\themes\fictional-university-theme\single.php on line 16
+[12-Dec-2022 02:31:05 UTC] PHP Parse error:  Unclosed '{' on line 4 in C:\Users\wormm\Local Sites\test\app\public\wp-content\themes\fictional-university-theme\single.php on line 21
+[12-Dec-2022 02:34:26 UTC] PHP Warning:  Undefined variable $theParent in C:\Users\wormm\Local Sites\test\app\public\wp-content\themes\fictional-university-theme\single.php on line 19
+[12-Dec-2022 02:34:26 UTC] PHP Stack trace:
+[12-Dec-2022 02:34:26 UTC] PHP   1. {main}() C:\Users\wormm\Local Sites\test\app\public\index.php:0
+[12-Dec-2022 02:34:26 UTC] PHP   2. require() C:\Users\wormm\Local Sites\test\app\public\index.php:17
+[12-Dec-2022 02:34:26 UTC] PHP   3. require_once() C:\Users\wormm\Local Sites\test\app\public\wp-blog-header.php:19
+[12-Dec-2022 02:34:26 UTC] PHP   4. include() C:\Users\wormm\Local Sites\test\app\public\wp-includes\template-loader.php:106
+[12-Dec-2022 02:34:26 UTC] PHP Warning:  Undefined variable $theParent in C:\Users\wormm\Local Sites\test\app\public\wp-content\themes\fictional-university-theme\single.php on line 22
+[12-Dec-2022 02:34:26 UTC] PHP Stack trace:
+[12-Dec-2022 02:34:26 UTC] PHP   1. {main}() C:\Users\wormm\Local Sites\test\app\public\index.php:0
+[12-Dec-2022 02:34:26 UTC] PHP   2. require() C:\Users\wormm\Local Sites\test\app\public\index.php:17
+[12-Dec-2022 02:34:26 UTC] PHP   3. require_once() C:\Users\wormm\Local Sites\test\app\public\wp-blog-header.php:19
+[12-Dec-2022 02:34:26 UTC] PHP   4. include() C:\Users\wormm\Local Sites\test\app\public\wp-includes\template-loader.php:106
+[12-Dec-2022 02:46:15 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in C:\Users\wormm\Local Sites\test\app\public\wp-content\themes\fictional-university-theme\archive.php on line 12
+[12-Dec-2022 02:48:10 UTC] PHP Parse error:  syntax error, unexpected identifier "the_author", expecting "," or ";" in C:\Users\wormm\Local Sites\test\app\public\wp-content\themes\fictional-university-theme\archive.php on line 11
+[12-Dec-2022 02:48:17 UTC] PHP Parse error:  syntax error, unexpected identifier "the_author", expecting "," or ";" in C:\Users\wormm\Local Sites\test\app\public\wp-content\themes\fictional-university-theme\archive.php on line 11
+[12-Dec-2022 03:00:54 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\wormm\Local Sites\test\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 50
+[12-Dec-2022 03:14:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wo_trim_words() in C:\Users\wormm\Local Sites\test\app\public\wp-content\themes\fictional-university-theme\front-page.php:60
+Stack trace:
+#0 C:\Users\wormm\Local Sites\test\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\wormm\Local Sites\test\app\public\wp-blog-header.php(19): require_once('C:\\Users\\wormm\\...')
+#2 C:\Users\wormm\Local Sites\test\app\public\index.php(17): require('C:\\Users\\wormm\\...')
+#3 {main}
+  thrown in C:\Users\wormm\Local Sites\test\app\public\wp-content\themes\fictional-university-theme\front-page.php on line 60
