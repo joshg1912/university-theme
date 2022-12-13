@@ -22,7 +22,9 @@ function university_post_types(){
         'public' => true,
         'labels' => array(
             'name' => 'Events'
-        )
+
+        ),
+        'menu_icon' => 'dashicons-calendar'
         
     ));
 }
